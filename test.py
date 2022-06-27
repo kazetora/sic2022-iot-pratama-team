@@ -1,0 +1,1 @@
+print("Ini adalah kode yang dieksekusi di raspberry pi")
